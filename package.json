@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "homepage": "https://github.com/moreza66/zookeepr#readme",
   "dependencies": {
     "express": "^4.18.2"
   },
@@ -19,6 +20,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/moreza66/zookeepr/issues"
-  },
-  "homepage": "https://github.com/moreza66/zookeepr#readme"
+  }
 }

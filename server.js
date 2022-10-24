@@ -50,6 +50,7 @@ function filterByQuery(query, animalsArray) {
     }
     res.json(results);
   });
+
 app.listen(PORT, () => {
     console.log(`API server now on port 3001!`);
   });
